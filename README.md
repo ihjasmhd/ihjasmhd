@@ -1,6 +1,8 @@
 ## Hi there 👋
-Hello, I’m Ihjas—Indian national, Dubai resident for now, lifelong fan of tidy datasets. With a Master’s in Computer Applications and hands-on work at Imarticus Learning, I have:
-• Blended SQL queries with Python scripts to prepare high-quality data
+Hello, I’m Ihjas—Indian national, Dubai resident for now, lifelong fan of tidy datasets. With a Master’s in Computer Applications and hands-on work at Imarticus Learning, I have:  
+
+• Blended SQL queries with Python scripts to prepare high-quality data  
+
 • Explored patterns through EDA, finding issues before they hurt KPIs
 • Shared findings through visuals managers can grasp in minutes
 • Cut manual reporting by automating data pipelines  
