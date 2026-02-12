@@ -18,7 +18,9 @@ Key skills :
 
 🔹 Databases: MySQL, SQL Server 
 
-🔹 Soft bits: listening first, clear talk, good time sense    
+🔹 Soft bits: listening first, clear talk, good time sense      
+
+  
 
 <p align="left">
   <img src="python logo.jpg" width="60">
