@@ -10,7 +10,7 @@ Hello, I’m Ihjas—Indian national, Dubai resident for now, lifelong fan of ti
 • Cut manual reporting by automating data pipelines    
 
 
-Key skills  
+Key skills :
 
 🔹 Languages: Python, R  
 
@@ -18,7 +18,9 @@ Key skills
 
 🔹 Databases: MySQL, SQL Server 
 
-🔹 Soft bits: listening first, clear talk, good time sense  
+🔹 Soft bits: listening first, clear talk, good time sense    
+
+  
 
 Favourite side projects show my curious streak: Pizza Sales Report, identifying crop diseases estimating age & gender from images, spotting PCOD risk factors—each taught me to mix tech with real-world needs.  
 
