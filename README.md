@@ -23,7 +23,7 @@ Key skills :
 <p align="left">
   <img src="python logo.jpg" width="60">
   <img src="sql logo.jpg" width="60">
-  <img src="power BI.jpg" width="60">
+  <img src="power BI logo.png" width="60">
   <img src="Excel logo.png" width="60">
 </p>
   
