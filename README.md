@@ -21,9 +21,9 @@ Key skills :
 🔹 Soft bits: listening first, clear talk, good time sense    
 
 <p align="left">
-  <img src="python logo.png" width="60">
-  <img src="sql logo.png" width="60">
-  <img src="power BI.png" width="60">
+  <img src="python logo.jpg" width="60">
+  <img src="sql logo.jpg" width="60">
+  <img src="power BI.jpg" width="60">
   <img src="Excel logo.png" width="60">
 </p>
   
