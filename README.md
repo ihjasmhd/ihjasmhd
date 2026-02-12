@@ -3,14 +3,21 @@ Hello, I’m Ihjas—Indian national, Dubai resident for now, lifelong fan of ti
 
 • Blended SQL queries with Python scripts to prepare high-quality data  
 
-• Explored patterns through EDA, finding issues before they hurt KPIs
-• Shared findings through visuals managers can grasp in minutes
-• Cut manual reporting by automating data pipelines  
+• Explored patterns through EDA, finding issues before they hurt KPIs  
 
-Key skills
-🔹 Languages: Python, R
-🔹 Tools: Pandas, NumPy, Matplotlib, Excel, Power BI, Tableau
-🔹 Databases: MySQL, SQL Server
+• Shared findings through visuals managers can grasp in minutes  
+
+• Cut manual reporting by automating data pipelines    
+
+
+Key skills  
+
+🔹 Languages: Python, R  
+
+🔹 Tools: Pandas, NumPy, Matplotlib, Excel, Power BI, Tableau  
+
+🔹 Databases: MySQL, SQL Server 
+
 🔹 Soft bits: listening first, clear talk, good time sense  
 
 Favourite side projects show my curious streak: Pizza Sales Report, identifying crop diseases estimating age & gender from images, spotting PCOD risk factors—each taught me to mix tech with real-world needs.  
