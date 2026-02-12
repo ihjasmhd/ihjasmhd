@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 Hello, I’m Ihjas—Indian national, Dubai resident for now, lifelong fan of tidy datasets. With a Master’s in Computer Applications and hands-on work at Imarticus Learning, I have:  
 
 • Blended SQL queries with Python scripts to prepare high-quality data  
@@ -20,6 +20,12 @@ Key skills :
 
 🔹 Soft bits: listening first, clear talk, good time sense    
 
+<p align="left">
+  <img src="python logo.png" width="60">
+  <img src="sql logo.png" width="60">
+  <img src="power BI.png" width="60">
+  <img src="Excel logo.png" width="60">
+</p>
   
 
 Favourite side projects show my curious streak: Pizza Sales Report, identifying crop diseases estimating age & gender from images, spotting PCOD risk factors—each taught me to mix tech with real-world needs.  
